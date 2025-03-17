@@ -1,12 +1,28 @@
-## Hi there 👋
+## Seja bem vindo👋
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+### Tutorial para importação de repositório
+
+
+- Primeiro deve estar logado usando conta com privilégios para tal
+- Acesse no canto superior direito o ícone de +, selecione Import Repository
+- Lá, preencha:
+  - a URL do repositório;
+  - o nick da conta (grupooptimus mesmo);
+  - um acesso PAT (Personal Access Token);
+    - Para obter um PAT, acesse:
+      - configurações de perfil;
+      - na barra lateral esquerda acesse a ultima opção _Developer settings_;
+      - Personal access tokens -> Fine-grained tokens;
+      - acesse o token optimus-migrate (acredito que ele vai ter expirado quando alguém estiver lendo isso);
+      - lá você usa 'Regenerate token';
+      - depois disso, o token aparecerá no topo da página ( SE VOCE SAIR DA PAGINA VC PERDE O TOKEN E PRECISA CLICAR EM **REGENERATE TOKEN** NOVAMENTE );
+
+   - agora com o token, retorne para a página de importação:
+     - o token serve como senha;
+     - altere o Owner para GrupoOptimus-Free;
+     - coloque o MESMO nome de repositorio;
+     - certifique-se que o REPO está **PRIVADO**;
+- manda bala
