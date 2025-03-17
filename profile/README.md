@@ -25,4 +25,6 @@
      - altere o Owner para GrupoOptimus-Free;
      - coloque o MESMO nome de repositorio;
      - certifique-se que o REPO está **PRIVADO**;
-- manda bala
+- como alterar agora na sua máquina o **repositório REMOTO**:
+  - para ver qual seu repo remoto use git remote -v;
+  - de resto o GPT consegue dar conta, mas eu deixei essa parte para LEMBRAR que **DEVE-SE TROCAR A REFERENCIA DO REPO REMOTO**
